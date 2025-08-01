@@ -4,7 +4,7 @@
 
 ## Overview
 
-**Meta-Researcher** is an open-source deep research framework designed to accelerate research and development at the intersection of reinforcement learning (RL) and agents. Inspired by the design methodology of the Agent-R1 framework, our framework employs end-to-end reinforcement learning combined with web search tool to train deep research agents. It is highly extensible: developers can easily adapt the framework to their unique application scenarios by simply defining domain-specific tools and reward functions, eliminating the need for complex workflow engineering. The code implementation is currently being organized and will be released soon for use by the developer community.
+**Meta-Researcher** is an open-source deep research framework designed to accelerate research and development at the intersection of reinforcement learning (RL) and agents. Inspired by the design methodology of the Agent-R1 framework, our framework employs end-to-end reinforcement learning combined with web search tool to train deep research agents. It is highly extensible: developers can easily adapt the framework to their unique application scenarios by simply defining domain-specific tools and reward functions, eliminating the need for complex workflow engineering. **The code implementation is currently being organized and will be released soon for use by the developer community**.
 
 ## Core Contributions
 
